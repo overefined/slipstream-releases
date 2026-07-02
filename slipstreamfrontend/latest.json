@@ -1,6 +1,6 @@
 {
-  "version": "1.7.1",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.1.exe",
-  "sha256": "deef6e664d2b871713b97e75f80d633c7d54a25008f5af269f1f125a62e8edc5",
-  "notes": "1.7.1"
+  "version": "1.7.2",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.2.exe",
+  "sha256": "ef9f93bc738173f2a2137d6e35b3254ef84585ead30ce9dea798a4d7ceb6e635",
+  "notes": "1.7.2"
 }
