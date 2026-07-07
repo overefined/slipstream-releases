@@ -1,6 +1,6 @@
 {
-  "version": "1.6.1",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/analyzer_logger/installer-1.6.1.exe",
-  "sha256": "c8a491278e70c767a4cee4ae867ea5874c06d6162e6dd3f23e3bf4cf6e2d3daf",
-  "notes": "1.6.1"
+  "version": "1.6.2",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/analyzer_logger/installer-1.6.2.exe",
+  "sha256": "6ac66785bc5720a5127b656d4523d2a6f0ac64c89c6f7f68fbb08302478e49de",
+  "notes": "Clean up UI"
 }
