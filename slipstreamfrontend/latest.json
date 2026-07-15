@@ -1,6 +1,6 @@
 {
-  "version": "1.7.2",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.2.exe",
-  "sha256": "f5ddf390492bf6b137a499bb0b9be047f2b2c1723fdb01364a68d8cc98f90237",
-  "notes": "1.7.2"
+  "version": "1.7.3",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.3.exe",
+  "sha256": "c4fb30a488aeab1b00dfc06e73e8657ddcf80336c61dda724fe735c92356974c",
+  "notes": "Floor gases to MDC matching the report pipeline in grandmesa. Add diluted value used + 25A cal target to phase Results"
 }
