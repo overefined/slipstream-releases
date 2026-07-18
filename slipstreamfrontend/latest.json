@@ -1,6 +1,6 @@
 {
-  "version": "1.7.3",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.3.exe",
-  "sha256": "c4fb30a488aeab1b00dfc06e73e8657ddcf80336c61dda724fe735c92356974c",
-  "notes": "Floor gases to MDC matching the report pipeline in grandmesa. Add diluted value used + 25A cal target to phase Results"
+  "version": "1.7.4",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.4.exe",
+  "sha256": "63ac0180e55a01546955c21a427bdb86832494e072ac90faef68c93b319bb136",
+  "notes": "25A THC uses predicted mid cal error. Update phaselogs"
 }
