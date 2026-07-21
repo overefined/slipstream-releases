@@ -1,6 +1,6 @@
 {
-  "version": "1.7.4",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.4.exe",
-  "sha256": "63ac0180e55a01546955c21a427bdb86832494e072ac90faef68c93b319bb136",
-  "notes": "25A THC uses predicted mid cal error. Retire FTIR Propane test type; check propane on CONO. Update phaselogs"
+  "version": "1.7.5",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.5.exe",
+  "sha256": "27a4dd53892688ed5f65d5a1f6cc4be708b572c2531c6892c626bbc38eb61a02",
+  "notes": "Floor dry values against the wet MDC scaled to their own moisture"
 }
