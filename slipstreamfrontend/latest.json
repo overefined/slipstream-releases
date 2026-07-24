@@ -1,6 +1,6 @@
 {
-  "version": "1.7.5",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.5.exe",
-  "sha256": "27a4dd53892688ed5f65d5a1f6cc4be708b572c2531c6892c626bbc38eb61a02",
-  "notes": "Floor dry values against the wet MDC scaled to their own moisture"
+  "version": "1.7.6",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.6.exe",
+  "sha256": "77129113eb29134b802668d2a283dfe780be2195164ce2fb51bedb1c868eddfa",
+  "notes": "Standardize cylinder constituents and require expiration dates. Add 'FTIR Reg 7 Combustor', 'FID OOOOb-a Combustor', 'FTIR Permit Combustor' test types"
 }
