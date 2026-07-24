@@ -1,6 +1,6 @@
 {
-  "version": "1.7.6",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.6.exe",
-  "sha256": "77129113eb29134b802668d2a283dfe780be2195164ce2fb51bedb1c868eddfa",
+  "version": "1.7.7",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.7.exe",
+  "sha256": "89e18a99565ecc7aca9fa9076b725e4e764d592ac01fb9c67707e7b5c464222e",
   "notes": "Standardize cylinder constituents and require expiration dates. Add 'FTIR Reg 7 Combustor', 'FID OOOOb-a Combustor', 'FTIR Permit Combustor' test types"
 }
