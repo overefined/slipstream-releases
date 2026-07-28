@@ -1,6 +1,6 @@
 {
-  "version": "1.7.7",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.7.exe",
-  "sha256": "89e18a99565ecc7aca9fa9076b725e4e764d592ac01fb9c67707e7b5c464222e",
-  "notes": "Standardize cylinder constituents and require expiration dates. Add 'FTIR Reg 7 Combustor', 'FID OOOOb-a Combustor', 'FTIR Permit Combustor' test types"
+  "version": "1.7.8",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.8.exe",
+  "sha256": "308a0f80a5b87c555fb7373117b12d11ac40cbaee1e78fdc7c2a8bca326f4d02",
+  "notes": "Pin each calibration phase to one cylinder. Finalize phase end before flushing QAQC. Added a popup message and red highlight for invalid Test Info cells. Added HCHO-3 and UOM3-HCHO to the end of TEST_INFO_HEADER."
 }
