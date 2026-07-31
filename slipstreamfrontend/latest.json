@@ -1,6 +1,6 @@
 {
-  "version": "1.7.8",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.8.exe",
-  "sha256": "308a0f80a5b87c555fb7373117b12d11ac40cbaee1e78fdc7c2a8bca326f4d02",
-  "notes": "Pin each calibration phase to one cylinder. Finalize phase end before flushing QAQC. Added a popup message and red highlight for invalid Test Info cells. Added HCHO-3 and UOM3-HCHO to the end of TEST_INFO_HEADER."
+  "version": "1.7.9",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.9.exe",
+  "sha256": "8e424329960065f02eeaf2224ef7870c1e46879cead33ff4af9deac9a839cc92",
+  "notes": "Resolve pre Run 1 THC upscale from THCCalUp2 cylinder/dilution. Reject only newly introduced timestamp errors in the phase_sheet. Remove THC_span column from qaqc_sheet in 25A system phases where it is not used."
 }
