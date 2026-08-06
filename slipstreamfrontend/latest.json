@@ -1,6 +1,6 @@
 {
-  "version": "1.7.10",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.10.exe",
-  "sha256": "039d86fde34b028e150649877d6ed10cf753dec8a317176d2c4cdb3c179f052e",
-  "notes": "Check zero readings on every gas the test calibrates directly against threshold during 'Direct - Nitrogen'. Warn on speciated VOC MDCs above threshold during 'Direct - Nitrogen'"
+  "version": "1.7.11",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.11.exe",
+  "sha256": "ddca888a55c74057ebc38170a8a3aa73335ce1af46a8b6e151083d87ba19c2f0",
+  "notes": "Make the expiration date optional on Nitrogen cylinders. 'FTIR 7E' and 'FID FTIR 7E 10 25A' reported NO, NO2 and CO are now Method 7E Eq. 7E-5 bias-corrected."
 }
