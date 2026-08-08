@@ -1,6 +1,6 @@
 {
-  "version": "1.7.11",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.11.exe",
-  "sha256": "ddca888a55c74057ebc38170a8a3aa73335ce1af46a8b6e151083d87ba19c2f0",
-  "notes": "Make the expiration date optional on Nitrogen cylinders. 'FTIR 7E' and 'FID FTIR 7E 10 25A' reported NO, NO2 and CO are now Method 7E Eq. 7E-5 bias-corrected."
+  "version": "1.7.12",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.12.exe",
+  "sha256": "8ff8592041e987a96bcaa27d21950ac1f11ce0e541e049ed88b21ce3f81a22a3",
+  "notes": "- Add EPA OTM-52 duty cycle\n    - Add inlet and exhaust flow for combustors\n    - Compute the Method 2B exhaust flow using inlet flow\n\n- Assume Method 2 is used when exhaust flow keyed in\n\n- Parse tertiary permit limits from the test info row"
 }
