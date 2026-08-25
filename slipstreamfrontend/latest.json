@@ -1,6 +1,6 @@
 {
-  "version": "1.7.12",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.12.exe",
-  "sha256": "8ff8592041e987a96bcaa27d21950ac1f11ce0e541e049ed88b21ce3f81a22a3",
-  "notes": "- Add EPA OTM-52 duty cycle\n    - Add inlet and exhaust flow for combustors\n    - Compute the Method 2B exhaust flow using inlet flow\n\n- Assume Method 2 is used when exhaust flow keyed in\n\n- Parse tertiary permit limits from the test info row"
+  "version": "1.7.13",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.13.exe",
+  "sha256": "a3c438291b2a54bbac86d6eb93eec29908b21365333dfea75c0c687225143fdf",
+  "notes": "- Add a Method 205 tab for the gas dilution system verification\n\n- Skip the CONO retention propane leg when the bottle carries no propane"
 }
