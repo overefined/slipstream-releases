@@ -1,6 +1,6 @@
 {
-  "version": "1.7.13",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.13.exe",
-  "sha256": "a3c438291b2a54bbac86d6eb93eec29908b21365333dfea75c0c687225143fdf",
-  "notes": "- Add a Method 205 tab for the gas dilution system verification\n\n- Skip the CONO retention propane leg when the bottle carries no propane"
+  "version": "1.7.14",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.14.exe",
+  "sha256": "81daebc5daa0c6f75202ef713b9f59abdcf3668831df5d2b2395cbd8fa6fad0c",
+  "notes": "- Correct ppmvw at 3% O2 using the wet-basis O2"
 }
