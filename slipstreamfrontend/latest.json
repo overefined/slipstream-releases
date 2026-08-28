@@ -1,6 +1,6 @@
 {
-  "version": "1.7.14",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.14.exe",
-  "sha256": "81daebc5daa0c6f75202ef713b9f59abdcf3668831df5d2b2395cbd8fa6fad0c",
-  "notes": "- Correct ppmvw at 3% O2 using the wet-basis O2"
+  "version": "1.7.15",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.15.exe",
+  "sha256": "fe725f8434e9d0d6818a4a005704d5975ab602f8362ab3a91b552d1b26f584a5",
+  "notes": "- Remove the phase dropdowns in favor of double-clicking the phase sheet"
 }
