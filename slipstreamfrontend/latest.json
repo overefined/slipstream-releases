@@ -1,6 +1,6 @@
 {
-  "version": "1.7.17",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.17.exe",
-  "sha256": "9d4e3636a1f4e548eb886b348fe2d3f2f6e4a73395a272bbbf5c3ca825e85f94",
+  "version": "1.8.0",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.8.0.exe",
+  "sha256": "a0250c9d8286c0fea433fd8b5623d3f786277a1c0da5698b21dcc1c52e984490",
   "notes": "- Add \"FTIR OTM 52 Combustor Intermittent Flow\" test type"
 }
