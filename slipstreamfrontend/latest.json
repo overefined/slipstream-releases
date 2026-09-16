@@ -1,6 +1,6 @@
 {
-  "version": "1.7.16",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.16.exe",
-  "sha256": "d2d0ff00d12c6503d13b3e395b6f752007895c5615e9fc780d06c632244a6e77",
-  "notes": "- Update propane lean line slope calculation to use high diluted cal gas value instead of high analyzer response"
+  "version": "1.7.17",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.7.17.exe",
+  "sha256": "9d4e3636a1f4e548eb886b348fe2d3f2f6e4a73395a272bbbf5c3ca825e85f94",
+  "notes": "- Add \"FTIR OTM 52 Combustor Intermittent Flow\" test type"
 }
