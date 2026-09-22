@@ -1,6 +1,6 @@
 {
-  "version": "1.6.2",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/analyzer_logger/installer-1.6.2.exe",
-  "sha256": "6ac66785bc5720a5127b656d4523d2a6f0ac64c89c6f7f68fbb08302478e49de",
-  "notes": "Clean up UI"
+  "version": "1.6.4",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/analyzer_logger/installer-1.6.4.exe",
+  "sha256": "2bdc10661570aae9846a0400ac6417c4978a9ffb9c4214d0dc87268f0a591df0",
+  "notes": "Add support for USB-TEMP-AI"
 }
