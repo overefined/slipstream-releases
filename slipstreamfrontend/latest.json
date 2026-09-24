@@ -1,6 +1,6 @@
 {
-  "version": "1.8.2",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.8.2.exe",
-  "sha256": "dd298ef467bcd34409e92ba9d93d4ca283efb5b1c9ab0e67ff64f5a50907605a",
-  "notes": "- Confirm before auto-restarting a run segment that already ran\n- Clean up OTM-52 instructions\n- Collapse end phase confirmation prompts into one"
+  "version": "1.8.3",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.8.3.exe",
+  "sha256": "38cedb865e814b154fe333a402b6008f5ff9a8cceca95d74491b013cd5110eda",
+  "notes": "- Show a red \"ETH Span Error\" box on the health bar when the PRN header labels Ethylene as spanned, with the last unspanned scan as Last OK\n- Fail CO bottle phases when CO% x 10,000 is outside 0.85-1.15 of the raw CO ppm range, and include COppm191C1of2 in the Readings tab"
 }
