@@ -2,5 +2,5 @@
   "version": "1.8.2",
   "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.8.2.exe",
   "sha256": "dd298ef467bcd34409e92ba9d93d4ca283efb5b1c9ab0e67ff64f5a50907605a",
-  "notes": "- Confirm before auto-restarting a run segment that already restarting\n- Clean up OTM-52 instructions\n- Collapse end phase confirmation prompts into one"
+  "notes": "- Confirm before auto-restarting a run segment that already ran\n- Clean up OTM-52 instructions\n- Collapse end phase confirmation prompts into one"
 }
