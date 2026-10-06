@@ -1,6 +1,6 @@
 {
-  "version": "1.8.4",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.8.4.exe",
-  "sha256": "1e844e3af2ffc634b200383d5546261f0391fba1a035edb47f5e3b0f85214cfa",
-  "notes": "- Rename CO_percent_ratio to CO_ratio and do not multiply by 100 in the fail reason\n- Time PreRunCombustorTest at 21 min and AmbientPurge3 at 4x ethylene response\n- Score the fuel-off segment's duty cycle from the scan that sets its scheduled end"
+  "version": "1.8.5",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.8.5.exe",
+  "sha256": "3d8374f31c1fedcc0aa5b6f50b5a6be48b6089205baba60e050a37f79a792b22",
+  "notes": "- Make QA/QC colours match each row's Status\n- Judge split runs on the whole run, not on segment failures\n- Judge all limits at three decimals\n- Fail unrecognised limit units instead of scoring 0\n- Show Pending on a fuel-off segment before its first idle scan an open Method 205 window and an unjudged stratification point"
 }
