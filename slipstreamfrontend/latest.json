@@ -1,6 +1,6 @@
 {
-  "version": "1.8.8",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.8.8.exe",
-  "sha256": "33f24d229f9e4525930f4bc5c4719918add01ff2c964671846eda2a2b5be28cd",
+  "version": "1.9.0",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.9.0.exe",
+  "sha256": "a690b323e2e5be919cad0c68f6c5b585397298be61f23a68ec3db6139bcb52eb",
   "notes": "- Make cell colours consistent with the Status\n- Judge split runs on the whole run, not on segment failures\n- Judge all limits at three decimals\n- Fail unrecognised limit units\n- Show Pending on a fuel-off segment before its first idle scan, an open Method 205 window, and an unjudged stratification point\n- Replace the Test Info and Cylinders popups with an inline Test Info row and a Cylinders tab that saves on leaving\n- Add hover tooltips for Issues/Results"
 }
