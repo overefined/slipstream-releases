@@ -1,6 +1,6 @@
 {
-  "version": "1.8.5",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.8.5.exe",
-  "sha256": "3d8374f31c1fedcc0aa5b6f50b5a6be48b6089205baba60e050a37f79a792b22",
-  "notes": "- Make QA/QC colours match each row's Status\n- Judge split runs on the whole run, not on segment failures\n- Judge all limits at three decimals\n- Fail unrecognised limit units instead of scoring 0\n- Show Pending on a fuel-off segment before its first idle scan an open Method 205 window and an unjudged stratification point"
+  "version": "1.8.6",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.8.6.exe",
+  "sha256": "73591db6bd8e0a08478d6e45f681ccefc3dd4877f0485152bee409f8c625e9f0",
+  "notes": "- Make QA/QC colours match each row's Status\n- Judge split runs on the whole run, not on segment failures\n- Judge all limits at three decimals\n- Fail unrecognised limit units instead of scoring 0\n- Show Pending on a fuel-off segment before its first idle scan an open Method 205 window and an unjudged stratification point\n- Replace the Test Info and Cylinders popups with an inline Test Info row under Test and a Cylinders tab that saves on leaving\n- Add hover tooltips for Issues/Results"
 }
