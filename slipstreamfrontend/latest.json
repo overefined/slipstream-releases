@@ -1,6 +1,6 @@
 {
-  "version": "1.9.0",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.9.0.exe",
-  "sha256": "a690b323e2e5be919cad0c68f6c5b585397298be61f23a68ec3db6139bcb52eb",
-  "notes": "- Make cell colours consistent with the Status\n- Judge split runs on the whole run, not on segment failures\n- Judge all limits at three decimals\n- Fail unrecognised limit units\n- Show Pending on a fuel-off segment before its first idle scan, an open Method 205 window, and an unjudged stratification point\n- Replace the Test Info and Cylinders popups with an inline Test Info row and a Cylinders tab that saves on leaving\n- Add hover tooltips for Issues/Results"
+  "version": "1.9.1",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.9.1.exe",
+  "sha256": "988ac1fc047bf295ef8bddc9a99d70bacf2a5a96feb45af3f6d7d6f3a71d3fc3",
+  "notes": "- Fit the Test Info columns to their contents when a row is loaded, edited or pasted\n- Stop the Test Info row scrolling vertically\n- Keep cell text in view when double-clicking it to edit\n- Widen a column as you type past its edge, and keep the text in view when editing"
 }
