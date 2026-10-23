@@ -1,6 +1,6 @@
 {
-  "version": "1.6.7",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/analyzer_logger/installer-1.6.7.exe",
-  "sha256": "be099663795ac45f6556ccb4da791f2e2cb047b18b1a251bfa51e90643f99736",
+  "version": "1.6.8",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/analyzer_logger/installer-1.6.8.exe",
+  "sha256": "eb79633428fd2ba520f51dec5f1dec1fc641c50114c604385f8bd3decc4c204d",
   "notes": "- Apply a typed log folder on Enter or leaving the box, instead of making a folder per keystroke\n- Refuse a calibration Expected value that isn't a number before recording the point\n- Show a calibration point as \"0.00 % at 2.000 V\"\n- Make + zoom the plots in and - zoom them out, on the main window and the Calibrate window\n- Blank a serial panel's State when its port stops"
 }
