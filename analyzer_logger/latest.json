@@ -1,6 +1,6 @@
 {
-  "version": "1.6.4",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/analyzer_logger/installer-1.6.4.exe",
-  "sha256": "2bdc10661570aae9846a0400ac6417c4978a9ffb9c4214d0dc87268f0a591df0",
-  "notes": "Add support for USB-TEMP-AI"
+  "version": "1.6.5",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/analyzer_logger/installer-1.6.5.exe",
+  "sha256": "409b40c214b8db8068fcc6e32679165460c2ce182735b4c6a9d1a0dc874464e6",
+  "notes": "- Apply a typed log folder on Enter or leaving the box, instead of making a folder per keystroke\n- Refuse a calibration Expected value that isn't a number before recording the point\n- Show a calibration point as \"0.00 % at 2.000 V\"\n- Make + zoom the plots in and - zoom them out, on the main window and the Calibrate window\n- Blank a serial panel's State when its port stops"
 }
