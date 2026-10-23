@@ -1,6 +1,6 @@
 {
-  "version": "1.9.1",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.9.1.exe",
-  "sha256": "988ac1fc047bf295ef8bddc9a99d70bacf2a5a96feb45af3f6d7d6f3a71d3fc3",
-  "notes": "- Fit the Test Info columns to their contents when a row is loaded, edited or pasted\n- Stop the Test Info row scrolling vertically\n- Keep cell text in view when double-clicking it to edit\n- Widen a column as you type past its edge, and keep the text in view when editing"
+  "version": "1.9.2",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.9.2.exe",
+  "sha256": "767a834f12891606fa054a2ec9f7aceb23d29df7580d0b914f8bbcf09f53e42d",
+  "notes": "- Updated grading for optional spike phases\n- Recompute a phase when a phase it depends on finishes later in the same update\n- End each Method 205 window at its fourth CO scan\n- Add NH3, NH3-2 and NH3-3 permit limit columns to Test Info\n- Check the date and lab number before Next Test closes the current test\n- Refuse a fuel composition value that isn't a number\n- Show a grey YYYY-MM-DD hint in a blank Test Date\n- Read a five-digit Start or End time as HH:MM:SS (91040 is 09:10:40)\n- Show the derived horsepower or fuel flow in its locked box, to two decimals\n- Keep each run's saved horsepower and BSFC when switching tests\n- Keep a cell being edited open when the tables refresh or a scan arrives\n- Recolour Cylinders expiry cells after undo, redo, cut and row deletes, and keep a flagged cell's colour while it's selected"
 }
