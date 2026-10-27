@@ -1,6 +1,6 @@
 {
-  "version": "1.9.5",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.9.5.exe",
-  "sha256": "c892c82055775adb3cdc3b5f370b746506f7bc2603b079b601dfa4fab4f1ed4e",
-  "notes": "- Score combustor VOC and THC dry (ppmvw limits stay wet)\n- Score combustor %DE on the basis the limit names; % Reduction uses the inlet basis\n- Show the FID's THC %DE beside HCC %DE\n- Read a TOC limit as VOC when VOC is blank\n- Refuse a VOC or TOC limit in % DE Outlet\n- Hide the NH3 limit columns until supported\n- Fix Next on the Runs and Spikes tabs skipping phases"
+  "version": "1.9.6",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.9.6.exe",
+  "sha256": "a2f3ad3249e791e5cb076c796b0a528e967fc2a3cdeb3fe8143f03b3dfeba39c",
+  "notes": "- Score combustor VOC and THC dry (ppmvw limits stay wet)\n- Score combustor %DE on the basis the limit names; % Reduction uses the inlet basis\n- Read a TOC limit as VOC when VOC is blank\n- Refuse a VOC or TOC limit in % DE Outlet\n- Hide the NH3 limit columns until supported\n- Fix Next on the Runs and Spikes tabs skipping phases"
 }
