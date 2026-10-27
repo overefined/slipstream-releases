@@ -1,6 +1,6 @@
 {
-  "version": "1.9.4",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.9.4.exe",
-  "sha256": "97eb7fe13ee9cc811520ab285a2b1d1d3171426e336eef0a40547f550a1a0e12",
-  "notes": "- Updated grading for optional spike phases\n- Recompute a phase when a phase it depends on finishes later in the same update\n- End each Method 205 window at its fourth CO scan\n- Add NH3, NH3-2 and NH3-3 permit limit columns to Test Info\n- Check the date and lab number before Next Test closes the current test\n- Refuse a fuel composition value that isn't a number\n- Show a grey YYYY-MM-DD hint in a blank Test Date\n- Read a five-digit Start or End time as HH:MM:SS (91040 is 09:10:40)\n- Show the derived horsepower or fuel flow in its locked box, to two decimals\n- Keep each run's saved horsepower and BSFC when switching tests\n- Keep a cell being edited open when the tables refresh or a scan arrives\n- Recolour Cylinders expiry cells after undo, redo, cut and row deletes, and keep a flagged cell's colour while it's selected"
+  "version": "1.9.5",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.9.5.exe",
+  "sha256": "c892c82055775adb3cdc3b5f370b746506f7bc2603b079b601dfa4fab4f1ed4e",
+  "notes": "- Score combustor VOC and THC dry (ppmvw limits stay wet)\n- Score combustor %DE on the basis the limit names; % Reduction uses the inlet basis\n- Show the FID's THC %DE beside HCC %DE\n- Read a TOC limit as VOC when VOC is blank\n- Refuse a VOC or TOC limit in % DE Outlet\n- Hide the NH3 limit columns until supported\n- Fix Next on the Runs and Spikes tabs skipping phases"
 }
