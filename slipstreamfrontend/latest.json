@@ -1,6 +1,6 @@
 {
-  "version": "1.9.6",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.9.6.exe",
-  "sha256": "a2f3ad3249e791e5cb076c796b0a528e967fc2a3cdeb3fe8143f03b3dfeba39c",
-  "notes": "- Score combustor VOC and THC dry (ppmvw limits stay wet)\n- Score combustor %DE on the basis the limit names; % Reduction uses the inlet basis\n- Read a TOC limit as VOC when VOC is blank\n- Refuse a VOC or TOC limit in % DE Outlet\n- Hide the NH3 limit columns until supported\n- Fix Next on the Runs and Spikes tabs skipping phases"
+  "version": "1.9.7",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.9.7.exe",
+  "sha256": "7815d42e4552c2fdc724440794ca09816b4775280e0446ca82d6a169d4502cc7",
+  "notes": "- Refuse a Test Info limit without a unit, a unit without a limit, or a unit the run sheet can't score\n- Flag every refused Test Info cell red at once without a popup, marking a bad unit rather than the blank limit beside it\n- Show the NH3 limit columns in Test Info again\n- Stop scoring the CO% / CO ppm ratio on spike phases\n- Score a native effluent phase's SF6 average (passes below 0.02 ppm) in place of the spike phase's CO2/H2O Native_check"
 }
