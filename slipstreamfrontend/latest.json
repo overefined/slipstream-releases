@@ -1,6 +1,6 @@
 {
-  "version": "1.9.7",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.9.7.exe",
-  "sha256": "7815d42e4552c2fdc724440794ca09816b4775280e0446ca82d6a169d4502cc7",
-  "notes": "- Refuse a Test Info limit without a unit, a unit without a limit, or a unit the run sheet can't score\n- Flag every refused Test Info cell red at once without a popup, marking a bad unit rather than the blank limit beside it\n- Show the NH3 limit columns in Test Info again\n- Stop scoring the CO% / CO ppm ratio on spike phases\n- Score a native effluent phase's SF6 average (passes below 0.02 ppm) in place of the spike phase's CO2/H2O Native_check"
+  "version": "1.9.8",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.9.8.exe",
+  "sha256": "514fa1468b7e078e2e6ff7ee6abf9b2574e5240027b5189613d95e41477ced1c",
+  "notes": "- Draw white text on orange warning backgrounds\n- Show each combustor run's highest probe temperature beside its average on the Runs tab\n- Add an Average column to the right of Run 3 on the Runs tab"
 }
