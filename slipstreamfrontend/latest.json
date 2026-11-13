@@ -1,6 +1,6 @@
 {
-  "version": "1.9.8",
-  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.9.8.exe",
-  "sha256": "514fa1468b7e078e2e6ff7ee6abf9b2574e5240027b5189613d95e41477ced1c",
-  "notes": "- Draw white text on orange warning backgrounds\n- Show each combustor run's highest probe temperature beside its average on the Runs tab\n- Add an Average column to the right of Run 3 on the Runs tab"
+  "version": "1.9.9",
+  "url": "https://raw.githubusercontent.com/overefined/slipstream-releases/master/slipstreamfrontend/installer-1.9.9.exe",
+  "sha256": "c1ac4fe813089cd9fa52034afe21983e8c16761932e4157cc35f8e10b28f1d6d",
+  "notes": "- Add the FTIR SO2 test type\n- Accept metric permit limits (g/GJ HHV, g/kW-hr, kg/hr, g/s, tonne/yr, tonne/day) and show the Runs tab's flows in m3/hr on a metric test\n- Match each CONO direct phase to its bottle by CO alone and score NO and propane against that bottle"
 }
